@@ -3,7 +3,7 @@
 
 - I’m currently working on building my personal portfolio.
 
-- I’m currently exploring **Java and C++.**
+- I’m currently developing a chess game in Python using pygame!
 
 - All of my projects are available at [https://kyranford.github.io/](https://kyranford.github.io/)
 
