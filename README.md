@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Kyran</h1>
 <h3 align="center">A passionate software developer from the United Kingdom.</h3>
 
-- I’m currently working on building my personal portfolio.
-
-- I’m currently developing a chess game in Python using pygame!
-
-- All of my projects are available at [https://kyranford.github.io/](https://kyranford.github.io/)
+- I’m currently working on building my personal portfolio using HTML, CSS and JavaScript.
 
 - How to reach me **kyranford@hotmail.co.uk**
 
