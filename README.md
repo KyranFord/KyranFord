@@ -14,10 +14,10 @@ I'm excited to join a company where I can apply my skills, learn, grow, and cont
 
 ## Skills :toolbox:
 
-- Programming languages: (Specify languages you are comfortable with)
-- Machine Learning and AI: (Specify frameworks or libraries you're familiar with)
-- Graphic Design: (Specify tools you use)
-- Other: (Any other relevant skills)
+- Programming languages: Python, JavaScript, HTML, CSS, C#
+- Machine Learning and AI: Tensor Flow, Keras, Scikit-learn, PyTorch
+- Graphic Design: Adobe Illustrator, Adobe Photoshop, Adobe After Effects
+- Other: Photography, Videography
 
 ## My Work :computer:
 
