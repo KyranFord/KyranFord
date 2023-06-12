@@ -1,4 +1,4 @@
-# Hello, World! I'm [Your Name] :wave:
+# Hi! I'm Kyran Ford :wave:
 
 ## About Me :man_technologist:
 
