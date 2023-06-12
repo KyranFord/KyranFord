@@ -27,7 +27,7 @@ I believe the best way to learn is by doing, and I've been fortunate to work on 
 
 Interested in collaborating or just want to chat? I'd love to hear from you!
 
-- [LinkedIn](https://www.linkedin.com/in/kyranford1/) (Replace # with your LinkedIn URL)
-- [Email](mailto:kyranford@hotmail.co.uk) (Replace # with your email address)
+- [LinkedIn](https://www.linkedin.com/in/kyranford1/)
+- [Email](mailto:kyranford@hotmail.co.uk)
 
 Let's make something great together!
