@@ -25,7 +25,7 @@ I believe the best way to learn is by doing, and I've been fortunate to work on 
 
 ### Freelance Projects
 
-- [Astraeus Watches](https://www.astraeuscollections.com) Custom Website: Developed a fully customized website for Astraeus Watches, a high-end watch brand, on their Shopify store. The project involved creating a visually appealing and user-friendly website, incorporating features such as a customizable and interactive product grid. The website aligned with the client's brand vision and resulted in an enhanced user experience.
+- <a href="http://www.astraeuscollections.com/" target="_blank">Astraeus Watches</a> Custom Website: Developed a fully customized website for Astraeus Watches, a high-end watch brand, on their Shopify store. The project involved creating a visually appealing and user-friendly website, incorporating features such as a customizable and interactive product grid. The website aligned with the client's brand vision and resulted in an enhanced user experience.
 
 ### Personal Projects
 
