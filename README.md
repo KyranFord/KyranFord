@@ -1,4 +1,4 @@
-# Hi! I'm Kyran Ford :wave: [My Portfolio](www.kyranford.com)
+# Hi! I'm Kyran Ford :wave:
 
 ## About Me :man_technologist:
 
