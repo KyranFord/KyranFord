@@ -29,8 +29,8 @@ I believe the best way to learn is by doing, and I've been fortunate to work on 
 
 ### Personal Projects
 
-- Django Web Application: AI Digit Recognition
-
+- <a href="https://github.com/KyranFord/Digit-Recognition-App
+" target="_blank">Django Web Application: AI Digit Recognition</a>  
 Feel free to explore my portfolio for a comprehensive overview of my work and the projects I have undertaken.
 
 
