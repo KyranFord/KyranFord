@@ -25,13 +25,17 @@ I believe the best way to learn is by doing, and I've been fortunate to work on 
 
 ### Freelance Projects
 
-- <a href="http://www.astraeuscollections.com/" target="_blank">Astraeus Watches</a> Custom Website: Developed a fully customized website for Astraeus Watches, a high-end watch brand, on their Shopify store. The project involved creating a visually appealing and user-friendly website, incorporating features such as a customizable and interactive product grid. The website aligned with the client's brand vision and resulted in an enhanced user experience.
+<a href="http://www.astraeuscollections.com/" target="_blank">Astraeus Watches</a> Custom Website
+
+Developed a fully customized website for Astraeus Watches, a high-end watch brand, on their Shopify store. The project involved creating a visually appealing and user-friendly website, incorporating features such as a customizable and interactive product grid. The website aligned with the client's brand vision and resulted in an enhanced user experience.
 
 ### Personal Projects
 
-- <a href="https://github.com/KyranFord/Digit-Recognition-App
+<a href="https://github.com/KyranFord/Digit-Recognition-App
 " target="_blank">Django Web Application: AI Digit Recognition</a>
- 
+
+Django web app that allows users to draw a digit on an interactive board and get it classified using a pre-trained machine learning model. It's an exciting project that combines my skills in JavaScript, Python, HTML, and CSS.
+
 Feel free to explore my portfolio for a comprehensive overview of my work and the projects I have undertaken.
 
 
