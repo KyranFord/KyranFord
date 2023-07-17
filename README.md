@@ -14,7 +14,7 @@ I'm excited to join a company where I can apply my skills, learn, grow, and cont
 
 ## Skills :toolbox:
 
-- Programming languages: Python, JavaScript, HTML, CSS. I'm currently learning C#, more specifically utilising the .NET framework.
+- Programming languages: Python, JavaScript, HTML, CSS.
 - Machine Learning and AI: Tensor Flow, Keras, Scikit-learn, PyTorch
 - Graphic Design: Adobe Illustrator, Adobe Photoshop, Adobe After Effects
 - Other: Photography, Videography
