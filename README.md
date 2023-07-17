@@ -23,7 +23,7 @@ I'm excited to join a company where I can apply my skills, learn, grow, and cont
 
 I believe the best way to learn is by doing, and I've been fortunate to work on several projects during my studies, in my spare time, and as a freelance developer. I have collaborated with various clients to build my skills and deliver successful projects. You can find examples of my work in my <a href="https://kyranford.github.io/" target="_blank">personal portfolio</a>.
 
---
+---
 
 # Freelance Projects
 
@@ -31,7 +31,7 @@ I believe the best way to learn is by doing, and I've been fortunate to work on 
 
 Developed a fully customized website for Astraeus Watches, a high-end watch brand, on their Shopify store. The project involved creating a visually appealing and user-friendly website, incorporating features such as a customizable and interactive product grid. The website aligned with the client's brand vision and resulted in an enhanced user experience.
 
---
+---
 
 # Personal Projects
 
@@ -39,12 +39,13 @@ Developed a fully customized website for Astraeus Watches, a high-end watch bran
 
 Django web app that allows users to draw a digit on an interactive board and get it classified using a pre-trained machine learning model. It's an exciting project that combines my skills in JavaScript, Python, HTML, and CSS.
 
---
+---
+
 **Personal Portfolio Website** | [Repo](https://github.com/KyranFord/kyranford.github.io) & [Live Site](https://kyranford.github.io/)
 
 I created my portfolio website using HTML, CSS, and JavaScript, featuring a simple yet effective menu-style design.
 
---
+---
 
 Feel free to explore my portfolio for a comprehensive overview of my work and the projects I have undertaken.
 
