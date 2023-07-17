@@ -43,6 +43,13 @@ Django web app that allows users to draw a digit on an interactive board and get
 
 ---
 
+---
+Personal Portfolio | [Repo](https://github.com/KyranFord/kyranford.github.io)
+
+I created my portfolio website using HTML, CSS, and JavaScript, featuring a simple yet effective menu-style design.
+
+---
+
 Feel free to explore my portfolio for a comprehensive overview of my work and the projects I have undertaken.
 
 
