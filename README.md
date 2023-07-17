@@ -25,7 +25,7 @@ I believe the best way to learn is by doing, and I've been fortunate to work on 
 
 ---
 
-### Freelance Projects
+## Freelance Projects
 
 ---
 **Astraeus Watches Custom Website** | [Repo](https://github.com/KyranFord/AstraeusWebsite) & [Live Site](https://www.astraeuscollections.com)
@@ -34,7 +34,7 @@ Developed a fully customized website for Astraeus Watches, a high-end watch bran
 
 ---
 
-### Personal Projects
+## Personal Projects
 
 ---
 **Django Web Application: AI Digit Recognition** | [Repo](https://github.com/KyranFord/Digit-Recognition-App)
