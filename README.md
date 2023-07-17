@@ -41,7 +41,7 @@ Django Web Application: AI Digit Recognition | [Repo](https://github.com/KyranFo
 
 Django web app that allows users to draw a digit on an interactive board and get it classified using a pre-trained machine learning model. It's an exciting project that combines my skills in JavaScript, Python, HTML, and CSS.
 ---
-Personal Portfolio | [Repo](https://github.com/KyranFord/kyranford.github.io)
+Personal Portfolio Website | [Repo](https://github.com/KyranFord/kyranford.github.io)
 
 I created my portfolio website using HTML, CSS, and JavaScript, featuring a simple yet effective menu-style design.
 ---
